@@ -1,0 +1,48 @@
+/*Signup*/
+.modal{
+  width: 400px;
+  height: 800px;
+  /*background-color: transparen;*/
+  background-color: #ee3134;
+  position: absolute;
+  top: 110px;
+  left: 0px;
+  right: 0px;
+  bottom :10px;
+}
+
+
+#e3{
+  text-align: left;
+  color: white;
+}
+#e{
+  border-bottom: 1px solid white;
+}
+
+#pws1{
+  text-align: left;
+  color: white;
+  border-bottom: 1px solid white;
+}
+
+#pws2{
+  text-align: left;
+  color: white;
+  border-bottom: 1px solid white;
+}
+
+#p{
+  text-align: left;
+  color: white;
+}
+
+/*#panel2{
+  width: 400px;
+  height: 700px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom :0px;
+}*/

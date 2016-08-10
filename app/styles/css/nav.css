@@ -1,0 +1,62 @@
+nav{
+	background-color: white;
+}
+
+#c1{
+	color: black;
+	font-size: 16px;
+}
+
+#c1:hover{
+	color: white;
+	background-color:#ee3134;
+}
+
+
+
+
+
+/**/
+#in{
+	background-color:#005daa;
+}
+
+#slide-out{
+	background-color: #ed7700;
+	position: left;
+}
+
+/*posicionar una imagen y que este como fondo de tema*/
+.background{
+	position: absolute;;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	z-index: -1;
+}
+
+.side-nav a{
+	display: block;;
+	font-size: 14px;
+	font-weight: 500;
+	height: 48px;
+	line-height: 48px;
+}
+
+.side-nav a{
+	padding: 0 16px;
+	padding-top: 0px;
+	padding-right: 16px;
+	padding-bottom: 0px;
+	padding-left: 16px;
+}
+
+ul li{
+	list-style-type: none;
+}
+
+li{
+	display: list-item;;
+	text-align: -webkit-match-parent;
+}

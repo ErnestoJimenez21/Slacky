@@ -1,0 +1,90 @@
+
+   /*.input-field label {
+     color: #555759;
+   }*/
+
+   html{
+    font-family: Helvetica Neue;
+    font-size: 13px;
+    color: #333;
+    line-height: 22px;
+    /*letter-spacing: 1em;*/
+   }
+
+   #name{
+   	color:#ee3134;
+   }
+
+
+
+  #email:focus {
+  border-bottom: 1px solid #ee3134;
+  -webkit-box-shadow: 0 1px 0 0 #ee3134;
+  -moz-box-shadow: 0 1px 0 0 #ee3134;
+  box-shadow: 0 1px 0 0 #ee3134;
+}
+
+#password:focus{
+   border-bottom: 1px solid #ee3134;
+  -webkit-box-shadow: 0 1px 0 0 #ee3134;
+  -moz-box-shadow: 0 1px 0 0 #ee3134;
+  box-shadow: 0 1px 0 0 #ee3134;
+}
+
+#password2 {
+  text-align: left;
+}
+#password2.active{
+  color: #ee3134;
+  text-align: left;
+}
+
+#email2.active{
+  color: #ee3134;
+  text-align: left;
+}
+
+#email2{
+  text-align: left;
+}
+
+
+#panel{
+  background-color: white;
+  width: 400px;
+  height:500px;
+}
+
+.btn{
+  background-color: #ee3134;
+}
+.btn:hover{
+  background-color: #555759;
+}
+
+#btns{/*posicion del boton*/
+  position: absolute;
+  top:  110px;
+  left: 800px;
+  bottom :100px;
+  right: 100px;
+}
+
+#btn{
+  height: 120px;
+  width: 120px;
+}
+
+/*
+#btn.active{
+
+}*/
+
+#img1{
+  position: absolute;
+  top:  30px;
+  left: 3px;
+  bottom :100px;
+  right: 100px;
+  font-size:4rem;
+}
